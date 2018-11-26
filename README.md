@@ -6,9 +6,9 @@ This project consists of a c++ implementation of a Model Predictive Control (MPC
 
 [//]: # (Image References)
 
-[image1]: images/example.png "Model Predictive Control"
-[image2]: images/mpc_final.png "MPC Graph Plot"
-[image3]: images/.png ""
+[image1]: example.png "Model Predictive Control"
+[image2]: mpc_final.png "MPC Graph Plot"
+
 
 ## 1.Access 
 
